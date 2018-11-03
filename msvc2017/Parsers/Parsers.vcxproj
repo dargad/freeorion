@@ -92,7 +92,7 @@
       <DebugInformationFormat>
       </DebugInformationFormat>
       <FavorSizeOrSpeed>Size</FavorSizeOrSpeed>
-      <AdditionalOptions>/MP4 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalOptions>/MP3 %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
